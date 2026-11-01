@@ -1,6 +1,6 @@
 [Up](../uv.md)
 
-# Python and UV
+# Python and uv
 
 By default, `uv` will automatically download Python versions when they are required.
 ```Bash

@@ -1,6 +1,6 @@
 [Up](../uv.md)
 
-# Install UV
+# Install uv
 
 Install `uv`
 ```bash
@@ -20,7 +20,7 @@ Commands:
   init       Create a new project
 ...
 ```
-To upgrade `uv`
+Later on upgrade `uv`
 ```bash
 $ uv self update
 ```
