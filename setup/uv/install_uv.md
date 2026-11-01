@@ -1,8 +1,6 @@
+[Up](../uv.md)
+
 # Install UV
-
-See docs for other install options.
-
-[docs.astral.sh/uv/getting-started/installation/](https://docs.astral.sh/uv/getting-started/installation/)
 
 To install `uv` do
 ```bash
@@ -22,3 +20,6 @@ Commands:
   init       Create a new project
 ...
 ```
+**See**
+
+[docs.astral.sh/uv/getting-started/installation/](https://docs.astral.sh/uv/getting-started/installation/)
