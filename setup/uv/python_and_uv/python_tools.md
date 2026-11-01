@@ -7,7 +7,7 @@ Many Python packages provide applications that can be used as tools.
 The `uvx` command invokes a tool without installing it.
 
 ```bash
-$ uvx cowsay -t 'hello' # same as: uvx tool run cowsay 'hello'
+$ uvx cowsay -t 'hello' # same as: uvx tool run cowsay -t 'hello'
 
   _____
 | hello |

@@ -12,7 +12,7 @@ print(" ".join(sys.argv[1:]))
 $ uv run script.py 1 2 3
 1 2 3
 ```
-Or use a `#!` 
+Or use a shebang `#!` 
 ```python
 #!/usr/bin/env -S uv run --script
 import sys
@@ -25,7 +25,7 @@ $ chmod +x script.py
 $ ./script.py 1 2 3
 1 2 3
 ```
-Use `--with` to use a dependency.
+Use the flag `--with` to download a dependency.
 ```python
 import time
 from rich.progress import track
@@ -37,7 +37,7 @@ for i in track(range(20), description="For example:"):
 $ uv run --with rich script.py
 For example: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:00:01
 ```
-Or use [inline script metadata](https://packaging.python.org/en/latest/specifications/inline-script-metadata/#inline-script-metadata).
+Or as an alternative use [inline script metadata](https://packaging.python.org/en/latest/specifications/inline-script-metadata/#inline-script-metadata).
 ```Bash
 $ uv init --script script.py --python 3.12
 $ uv add  --script script.py 'rich'
@@ -56,11 +56,12 @@ def main() -> None:
 if __name__ == "__main__":
     main()
 ```
+_(with some code)_
+
 ```python
 # /// script
 # requires-python = ">=3.12"
 # dependencies = [
-#     "requests<3",
 #     "rich>=15.0.0",
 # ]
 # ///
