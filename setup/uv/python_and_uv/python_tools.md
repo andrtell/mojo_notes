@@ -23,3 +23,5 @@ $ uvx cowsay -t 'hello' # same as: uvx tool run cowsay -t 'hello'
 **Links**
 
 [docs.astral.sh/uv/guides/tools/](https://docs.astral.sh/uv/guides/tools/)
+
+[docs.astral.sh/uv/concepts/tools/](https://docs.astral.sh/uv/concepts/tools/)

@@ -18,8 +18,11 @@ hello world
 
 * [Python scripts](python_and_uv/python_scripts.md) | `uv run`
 * [Python tools](python_and_uv/python_tools.md) | `uvx`
+* [Python projects](python_and_uv/python_projects.md) | `uv init`
 
 **Links**
 
 [docs.astral.sh/uv/guides/install-python/](https://docs.astral.sh/uv/guides/install-python/)
+
+[docs.astral.sh/uv/concepts/python-versions/](https://docs.astral.sh/uv/concepts/python-versions/)
 
