@@ -6,6 +6,7 @@
 
 * [Install `uv`](uv/install_uv.md)
 * [Python and `uv`](uv/python_and_uv.md)
+* [Mojo and uv](uv/mojo_and_uv.md)
 
 **Links**
 
