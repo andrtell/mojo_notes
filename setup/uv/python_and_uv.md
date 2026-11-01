@@ -2,7 +2,7 @@
 
 # Python and uv
 
-By default, `uv` will automatically download Python versions when they are required.
+By default, `uv` will download Python versions when required.
 ```Bash
 $ wich python
 /usr/bin/python  # (managed by the OS)
