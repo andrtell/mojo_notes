@@ -2,11 +2,11 @@
 
 # Install UV
 
-To install `uv` do
+Install `uv`
 ```bash
 curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
-To check the `uv` installation do
+Verify
 ```bash
 $ uv
 
@@ -20,6 +20,11 @@ Commands:
   init       Create a new project
 ...
 ```
-**See**
+To upgrade `uv`
+```bash
+$ uv self update
+```
+
+**Links**
 
 [docs.astral.sh/uv/getting-started/installation/](https://docs.astral.sh/uv/getting-started/installation/)

@@ -1,6 +1,6 @@
 [Up](../python_and_uv.md)
 
-# Tools
+# Python tools
 
 Many Python packages provide applications that can be used as tools.
 
@@ -21,6 +21,6 @@ $ uvx cowsay -t 'hello' # same as: uvx tool run cowsay 'hello'
             ||     ||
 ```
 
-**See**
+**Links**
 
 [docs.astral.sh/uv/guides/tools/](https://docs.astral.sh/uv/guides/tools/)

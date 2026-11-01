@@ -2,6 +2,24 @@
 
 # Python and UV
 
-1. [Python versions](python_and_uv/python_versions.md)
-2. [Scripts](python_and_uv/python_scripts.md) (`uv run`)
-3. [Tools](python_and_uv/python_tools.md) (`uvx`)
+By default, `uv` will automatically download Python versions when they are required.
+```Bash
+$ wich python
+/usr/bin/python  # (managed by the OS)
+
+$ python --version
+3.14.8
+
+$ uvx python@3.12 -c "print('hello world')"
+# uv downloads python 3.12 ...
+hello world
+```
+**See**
+
+* [Python scripts](python_and_uv/python_scripts.md) | `uv run`
+* [Python tools](python_and_uv/python_tools.md) | `uvx`
+
+**Links**
+
+[docs.astral.sh/uv/guides/install-python/](https://docs.astral.sh/uv/guides/install-python/)
+

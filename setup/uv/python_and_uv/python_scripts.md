@@ -1,6 +1,6 @@
 [Up](../python_and_uv.md)
 
-# Scripts
+# Python scripts
 
 Execute python script using `uv run`
 ```python
@@ -80,6 +80,6 @@ $ uv run script.py
 Installed 4 packages in 14ms
 For example: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 0:00:01
 ```
-**See**
+**Links**
 
 [docs.astral.sh/uv/guides/scripts/](https://docs.astral.sh/uv/guides/scripts/)
