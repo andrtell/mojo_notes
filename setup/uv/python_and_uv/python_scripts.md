@@ -2,7 +2,7 @@
 
 # Python scripts
 
-Execute python script using `uv run`
+To execute python scripts use  `uv run`
 ```python
 import sys
 
@@ -25,7 +25,7 @@ $ chmod +x script.py
 $ ./script.py 1 2 3
 1 2 3
 ```
-Use the flag `--with` to download a dependency.
+Add the `--with` flag to download a dependency.
 ```python
 import time
 from rich.progress import track
