@@ -2,11 +2,11 @@
 
 # Install uv
 
-Install `uv`
+To install `uv` on you machine execute:
 ```bash
 curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
-Verify
+Then run `uv` to verify the installation:
 ```bash
 $ uv
 
@@ -20,7 +20,7 @@ Commands:
   init       Create a new project
 ...
 ```
-Later on upgrade `uv`
+To upgrade `uv` run:
 ```bash
 $ uv self update
 ```

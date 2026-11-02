@@ -1,4 +1,4 @@
-# UV
+# uv
 
 `uv` is a Python package and project manager. 
 

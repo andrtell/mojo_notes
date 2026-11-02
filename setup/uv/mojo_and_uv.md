@@ -2,23 +2,23 @@
 
 # Mojo and uv
 
-Use `uv init` to start a new mojo project.
+To create a new `mojo` project; first create a new `uv` project; then add `mojo`.
 ```bash
 $ uv init hello-world
 $ cd hello-world
 $ uv add mojo
 ```
-_hello.mojo_
+Add some `mojo` code. Here an example `hello.mojo` is provided.
 ```python
 def main():
     print("hello world")
 ```
-Use `uv run mojo <file>` to execute _hello.mojo_.
+To compile and execute you `mojo` code invoke:
 ```bash
 $ uv run mojo hello.mojo
 hello world
 ```
-Or activate _the environment_
+Or activate the `.venv` environment and run `mojo` in it.
 ```bash
 $ uv sync
 $ source .venv/bin/activate
