@@ -20,4 +20,4 @@ $ pixi self-update
 ---
 **Links**
 
-[Pixi](https://pixi.prefix.dev/)
+[Pixi page](https://pixi.prefix.dev/)

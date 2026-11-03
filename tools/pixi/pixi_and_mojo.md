@@ -32,4 +32,4 @@ hello world
 ---
 **Links**
 
-[Mojo](https://mojolang.org/)
+[Mojo page](https://mojolang.org/)

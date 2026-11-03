@@ -89,8 +89,8 @@ Python 3.15.2 | packaged by conda-forge | (main, Oct 26 2026, 11:39:52) [GCC 15.
 ---
 **Links**
 
-[Pixi](https://pixi.prefix.dev/)
+[Pixi page](https://pixi.prefix.dev/)
 
-[Conda](https://docs.conda.io/en/latest/)
+[Conda page](https://docs.conda.io/en/latest/)
 
-[Anaconda (package search engine)](https://anaconda.org/)
+[Anaconda page (search for packages)](https://anaconda.org/)
