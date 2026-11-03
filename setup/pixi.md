@@ -2,7 +2,7 @@ Up
 
 # Pixi
 
-`pixi` is a package manager built on the **Conda** packaging ecosystem. 
+`pixi` is a package manager built on the [Conda](https://docs.conda.io/en/latest/) packaging ecosystem. 
 
 **Index**
 
