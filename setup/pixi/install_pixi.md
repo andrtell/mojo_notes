@@ -1,5 +1,6 @@
-[Up](../pixi.md)
+[Up](../pixi.md) [Next](pixi_workspaces.md)
 
+---
 # Install pixi
 
 To install `pixi` on your machine execute:
@@ -17,6 +18,7 @@ To upgrade `pixi` run:
 ```bash
 $ pixi self-update
 ```
+---
 **Links**
 
 [pixi.prefix.dev/latest/installation/](https://pixi.prefix.dev/latest/installation/)
