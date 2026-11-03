@@ -1,4 +1,4 @@
-[Up](../pixi.md) [Previous](install_pixi.md)
+[Up](../pixi.md) | [Previous](install_pixi.md)
 
 # Pixi workspaces
 
@@ -74,13 +74,16 @@ $ pixi add --pypi httpx
 
 `pixi` always creates an environment for your workspace.
 
-Start a new shell session in the environment:
+Start a new shell in the environment:
 ```bash
 $ pixi shell
+(workspace) $ python -VV
+Python 3.15.2 | packaged by conda-forge | (main, Oct 26 2026, 11:39:52) [GCC 15.3.0]
 ```
 Run a command in the environment:
 ```bash
 $ pixi run python -VV
+Python 3.15.2 | packaged by conda-forge | (main, Oct 26 2026, 11:39:52) [GCC 15.3.0]
 ```
 ---
 **Links**

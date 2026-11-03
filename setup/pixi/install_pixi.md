@@ -1,4 +1,4 @@
-[Up](../pixi.md) [Next](pixi_workspaces.md)
+[Up](../pixi.md) | [Next](pixi_workspaces.md)
 
 # Install Pixi
 
