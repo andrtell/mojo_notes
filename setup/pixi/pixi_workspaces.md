@@ -77,10 +77,11 @@ $ pixi add --pypi httpx
 Start a new shell in the environment:
 ```bash
 $ pixi shell
+
 (workspace) $ python -VV
 Python 3.15.2 | packaged by conda-forge | (main, Oct 26 2026, 11:39:52) [GCC 15.3.0]
+
 (workspace) $ exit
-$
 ```
 Run a command in the environment:
 ```bash
