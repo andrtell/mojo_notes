@@ -1,6 +1,5 @@
-[Up](../pixi.md)
+[Up](../pixi.md) [Previous](install_pixi.md)
 
----
 # Pixi workspaces
 
 A `pixi` workspace is a set of environments.

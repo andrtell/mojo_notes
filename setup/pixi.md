@@ -1,13 +1,8 @@
 Up
 
----
-# pixi
+# Pixi
 
 `pixi` is a package management tool built on the **Conda** packaging ecosystem. 
-
----
-
-**See**
 
 [Install pixi](pixi/install_pixi.md)
 

@@ -1,7 +1,6 @@
 [Up](../pixi.md) [Next](pixi_workspaces.md)
 
----
-# Install pixi
+# Install Pixi
 
 To install `pixi` on your machine execute:
 ```bash
