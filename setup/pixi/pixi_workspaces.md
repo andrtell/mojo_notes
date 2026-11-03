@@ -6,11 +6,11 @@ A `pixi` workspace is a set of environments.
 
 Create a new `pixi` workspace:
 ```bash
-$ pixi init my_workspace
+$ pixi init the_workspace
 ```
 _or_
 ```bash
-$ mkdir my_workspace; cd my_workspace
+$ mkdir the_workspace; cd the_workspace
 $ pixi init
 ```
 _Basic workspace structure_
@@ -24,7 +24,7 @@ _pixi.toml_
 ```toml
 [workspace]
 channels = ["conda-forge"]
-name = "my_workspace"
+name = "the_workspace"
 platforms = ["linux-64"]
 ```
 ## Channels
@@ -35,7 +35,7 @@ A **channel** is a repository of [Conda packages](https://anaconda.org/).
 
 When creating a new `pixi` workspace, channels can be configured:
 ```bash
-$ pixi init my_workspace -c https://conda.modular.com/max/ -c conda-forge
+$ pixi init the_workspace -c https://conda.modular.com/max/ -c conda-forge
 ```
 Add a channel to an existing workspace:
 ```bash
@@ -66,11 +66,11 @@ _pixi.toml_
 [dependencies]
 
 ```
-To add dependencies from [PyPI](https://pypi.org).
+Add a dependency from [PyPI](https://pypi.org).
 ```bash
 $ pixi add --pypi httpx
 ```
-## Environment
+## Environments
 
 `pixi` always creates an environment for your workspace.
 
@@ -78,7 +78,7 @@ Start a new shell in the environment:
 ```bash
 $ pixi shell
 
-(workspace) $ python -VV
+(the_workspace) $ python -VV
 Python 3.15.2 | packaged by conda-forge | (main, Oct 26 2026, 11:39:52) [GCC 15.3.0]
 ```
 Run a command in the environment:
