@@ -2,18 +2,18 @@
 
 # Install Pixi
 
-To install `pixi` on your machine execute:
+Install `pixi` on your machine:
 ```bash
 $ curl -fsSL https://pixi.sh/install.sh | sh
 ```
-Then run `pixi` to verify the installation:
+Run `pixi` to verify the installation:
 ```bash
 $ pixi
 
 Pixi [version 0.83.0] - Developer Workflow and Environment Management for Multi-Platform, Language-Agnostic Workspaces.
 ...
 ```
-To upgrade `pixi` run:
+Later update `pixi`:
 ```bash
 $ pixi self-update
 ```
