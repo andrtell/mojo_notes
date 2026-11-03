@@ -20,4 +20,4 @@ $ pixi self-update
 ---
 **Links**
 
-[pixi.prefix.dev/latest/installation/](https://pixi.prefix.dev/latest/installation/)
+[Pixi](https://pixi.prefix.dev/)

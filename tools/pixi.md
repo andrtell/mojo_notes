@@ -10,7 +10,9 @@ Up
 
 [Pixi workspaces](pixi/pixi_workspaces.md)
 
+[Pixi and Mojo](pixi/pixi_and_mojo.md)
+
 ---
 **Links**
 
-[pixi.prefix.dev](https://pixi.prefix.dev)
+[Pixi](https://pixi.prefix.dev)

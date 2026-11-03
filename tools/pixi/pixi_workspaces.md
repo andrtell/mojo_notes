@@ -1,4 +1,4 @@
-[Up](../pixi.md) | [Previous](install_pixi.md)
+[Up](../pixi.md) | [Prev](install_pixi.md) | [Next](pixi_and_mojo.md)
 
 # Pixi workspaces
 
@@ -89,10 +89,8 @@ Python 3.15.2 | packaged by conda-forge | (main, Oct 26 2026, 11:39:52) [GCC 15.
 ---
 **Links**
 
-[pixi.prefix.dev/latest/first_workspace/](https://pixi.prefix.dev/latest/first_workspace/)
+[Pixi](https://pixi.prefix.dev/)
 
-[pixi.prefix.dev/latest/conda_ecosystem/](https://pixi.prefix.dev/latest/conda_ecosystem/)
+[Conda](https://docs.conda.io/en/latest/)
 
-[docs.conda.io/en/latest/](https://docs.conda.io/en/latest/)
-
-[anaconda.org/](https://anaconda.org/)
+[Anaconda (package search engine)](https://anaconda.org/)
